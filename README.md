@@ -17,6 +17,7 @@ Repositori ini berisi kumpulan proyek dan tantangan pengkodean yang diselesaikan
 Daftar modul latihan CSS yang telah dan sedang diimplementasikan dalam repositori ini:
 
 - **01:** *Desain Menu Cafe* - Halaman menu cafe.
+- **02:** *Desain Kartu Bisnis* - Profile-image, portfolio-link dan social media.
 
 ---
 
